@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments
+.env
+.venv/
+venv/
+env/
+
+# Data and model artifacts
+dataset/*
+!dataset/.gitkeep
+*.json
+*.jsonl
+*.csv
+*.parquet
+*.pkl
+*.pickle
+*.index
+*.faiss
+*.npy
+*.npz
+*.pt
+*.pth
+*.bin
+*.safetensors
+checkpoints/
+outputs/
+results/
+logs/
+wandb/
+swanlog/
+
+# Local generated files
+*.png
+*.pdf
+*.svg
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
