@@ -70,6 +70,11 @@ The demo is intended to show the user-facing SD-RAG workflow:
 4. The reranking stage refines the evidence order.
 5. The final answer is streamed to the interface.
 
+A demonstration video illustrating the SD-RAG workflow is available in the project release:
+
+[Watch the SD-RAG demo video](https://github.com/1085931973/SD-RAG/releases/tag/v0.1-demo)
+
+The repository itself does not store the video file directly, keeping the initial codebase lightweight.
 
 ## Repository Structure
 
@@ -98,4 +103,3 @@ Planned updates include:
 - demo implementation;
 - evaluation scripts and benchmark reports;
 - processed dataset metadata or sanitized examples.
-
