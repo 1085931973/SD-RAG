@@ -70,7 +70,6 @@ The demo is intended to show the user-facing SD-RAG workflow:
 4. The reranking stage refines the evidence order.
 5. The final answer is streamed to the interface.
 
-The current repository only documents the demo behavior. Demo source code and backend logic are not included in this initial release.
 
 ## Repository Structure
 
@@ -100,6 +99,3 @@ Planned updates include:
 - evaluation scripts and benchmark reports;
 - processed dataset metadata or sanitized examples.
 
-## Acknowledgement
-
-The repository organization is inspired by the clean initial-release style of [Henry-Zhao-sz/wind-farm-recon](https://github.com/Henry-Zhao-sz/wind-farm-recon).
