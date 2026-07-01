@@ -72,7 +72,7 @@ The demo is intended to show the user-facing SD-RAG workflow:
 
 A demonstration video illustrating the SD-RAG workflow is available in the project release:
 
-[Watch the SD-RAG demo video](https://github.com/1085931973/SD-RAG/releases/tag/v0.1-demo)
+[Watch the demo video](https://github.com/1085931973/SD-RAG/releases/tag/v0.1-demo)
 
 The repository itself does not store the video file directly, keeping the initial codebase lightweight.
 
